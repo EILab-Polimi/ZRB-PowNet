@@ -23,7 +23,7 @@ These scripts are used to validate the response model by comparing the differenc
 - ```validate_multiyear_run_main.py``` : wrapper for above script to run multiple solutions in parallel
 - ```validate_multiyear_run_post.py``` : post-process the ZW and PowNet model outputs
 
-## 4. Validation of Response Model
+## 4. Simulate PowNet for High-resolution Outputs
 - ```hourly_multiyear_run_yearmonth.py``` : for a given month and year, runs and outputs at high-resolution (daily) PowNet simulation for a chosen ZW model solution
 - ```hourly_multiyear_run_yearmonth_main.py``` : wrapper for above script to run multiple solutions in parallel
 
